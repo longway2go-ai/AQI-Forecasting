@@ -7,7 +7,7 @@ The dataset consists of **daily AQI observations from 2021 to 31st December 2024
 
 The objective is to:
 - Explore relationships between features and AQI
-- Forecast AQI using **LSTM**, **GRU**, **ARIMA**, and **SARIMA**
+- Forecast AQI using **LSTM**, **GRU**, **ARIMA**, **SARIMA**, and **SARIMAX**
 - Validate predictions using recent months
 - Compare model performance using **RMSE**
 
